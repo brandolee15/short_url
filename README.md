@@ -9,5 +9,5 @@
 ## Usage
 - Enter the full url
 - Generates a shortened url which you can click on or paste into the end of the website url
-- Have fun :)
+- Have fun :smiley:
 
