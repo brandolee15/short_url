@@ -11,3 +11,6 @@
 - Generates a shortened url which you can click on or paste into the end of the website url
 - Have fun :smiley:
 
+## Challenges
+- We got lazy and used local storage instead of SQlAlchemy
+- But it works 
